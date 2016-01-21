@@ -8,7 +8,7 @@ int main()
   	{
      	  x=n%10;
      	  r=r*10+x;
-     	  n=n/10;
+     	  n/=10;
   	}
   	printf("Reverse : %d",r);
   	return 0;
