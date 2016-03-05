@@ -1,9 +1,9 @@
 struct contact_persons
 {
-char * contact_person_id;
-char * fname;
-char * lname;
-char * email;
+	char * contact_person_id;
+	char * fname;
+	char * lname;
+	char * email;
 };
 
 struct data
