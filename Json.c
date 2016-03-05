@@ -8,10 +8,10 @@ struct contact_persons
 
 struct data
 {
-	  char * contact_id;
-	  char * contact_name;
-	  char * street;
-	  char * area;
-	  char * city;
-	  struct contact_persons * cp;
+	char * contact_id;
+	char * contact_name;
+	char * street;
+	char * area;
+	char * city;
+	struct contact_persons * cp;
 }d[2];
